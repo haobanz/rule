@@ -31,7 +31,7 @@
     {"tag": "🎥 Netflix", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
     {"tag": "💶 PayPal", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
     {"tag": "🎮 Steam", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
-    {"tag": "🪟 Microsoft", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
+    {"tag": "Microsoft", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
     {"tag": "🐬 OneDrive", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择"]},
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择", "🎯 全球直连"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
