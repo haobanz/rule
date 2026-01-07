@@ -36,7 +36,7 @@
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择", "🎯 全球直连"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择", "🎯 全球直连"]},
     {"tag": "🐸 手动选择", "type": "selector", "outbounds": ["{all}"], "filter": [{"action": "exclude", "keywords": ["网站|流量|地址|剩余|过期|免费|时间|有效|Traffic|ExpireDate|GB|Expire Date"]}]},
-    {"tag": "GLOBAL", "type": "selector", "outbounds": ["🚀 默认代理","♻️ 自动选择", "🎯 全球直连"]},
+    {"tag": "GLOBAL", "type": "selector", "outbounds": ["🚀 默认代理", "🐸 手动选择", "🎯 全球直连"]},
     {"tag": "🎯 全球直连", "type": "direct"}
   ],
   "route": {
